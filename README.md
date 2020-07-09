@@ -1,4 +1,20 @@
-### Hi there 👋
+[![Twitter](https://img.shields.io/twitter/follow/toliner_?label=Twitter&style=social)](https://twitter.com/toliner_)
+[![Discord](https://img.shields.io/discord/644929813093810197?label=Discord)](https://discord.gg/CrDjgnV)
+[![Platform](https://img.shields.io/badge/platform-Android%20|%20Windows%2010-ccc)]()
+
+# About
+- University student at department of information science
+- Japanese
+- Love ASUS
+
+# Features
+- ✨ Object-oriented programming skill
+- ✨ Full support of Kotlin Langueage
+- 🚀 Support of server-side programming with Kotlin
+- 👏 Integrated with Gradle (w/ Kotlin DSL)
+
+# Usage
+I'm working part time job at [@justincase-jp](https://github.com/justincase-jp/) as a server-side programmer.
 
 <!--
 **toliner/toliner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
