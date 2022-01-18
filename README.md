@@ -14,7 +14,7 @@
 - 👏 Integrated with Gradle (w/ Kotlin DSL)
 
 # Usage
-I'm working part time job at [@justincase-jp](https://github.com/justincase-jp/) as a server-side programmer.
+ToDo
 
 <!--
 **toliner/toliner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
